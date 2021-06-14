@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrzsbrn
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning data engineering!
+- 🌱 I’m currently learning (SQL, No SQL, ETL, Apache Spark)!
 - 💞️ I’m looking to collaborate on any beginner projects, just started getting serious into the field.
 - 📫 How to reach me ...
 
